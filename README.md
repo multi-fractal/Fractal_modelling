@@ -2,15 +2,15 @@
 
 Code for generating a fractal point set characterized by the correlation dimension D₂.
 
-Fractal_modelling.cpp - main C++ file for the modeling.
+***Fractal_modelling.cpp*** - main C++ file for the modeling.
 
-draw1D.py, draw2D.py, draw3D.py - visualization in 1D, 2d and 3D cases.
+***draw1D.py, draw2D.py, draw3D.py*** - visualization in 1D, 2d and 3D cases.
 
-Fractal_analysis.py - estimation of correletion fractal dimension D₂.
+***Fractal_analysis.py*** - estimation of correletion fractal dimension D₂.
 
 
 
-References
+**References**
 
 Darcel, C., Bour, O., Davy, P., de Dreuzy, J., 2003. Connectivity properties of two-dimensional fracture network with stochastic fractal correlation.Water. Resour. Res. 39, 1272.
 
